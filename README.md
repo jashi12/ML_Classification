@@ -5,9 +5,11 @@ In this report, we trained three models (Artificial Neural Network, K-Nearest Ne
 ![image](https://user-images.githubusercontent.com/35642063/212908065-58c00d1c-d744-476a-8c48-d4afd07d589f.png)
 
 **KNN**
+
 ![image](https://user-images.githubusercontent.com/35642063/212908152-4f8d581f-f8bf-4086-9fa9-04423b332903.png)
 
 **XGBoost**
+
 ![image](https://user-images.githubusercontent.com/35642063/212908417-8c84d82e-2839-45eb-9684-c5084a354ac1.png)
 
 
